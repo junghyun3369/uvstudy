@@ -1,0 +1,23 @@
+{
+  "name": "uvstudy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junghyun3369/uvstudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junghyun3369/uvstudy/issues"
+  },
+  "homepage": "https://github.com/junghyun3369/uvstudy#readme",
+  "description": "",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express": "^5.1.0"
+  }
+}
